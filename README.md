@@ -1,4 +1,4 @@
-1.mengelola logika programnya ada di apiconrtroller.php
+1.mengelola logika programnya ada di apicontroller.php
 
 2.menampilkan program dan penempatanya ada di index.blade.php
 
